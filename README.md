@@ -1,2 +1,2 @@
-# Password-Manager
-PW Manager Project WIP
+# JAGPT (Just Another General Purpose Tool)
+WIP
